@@ -1,0 +1,30 @@
+body {
+    background-color:red;  
+}
+
+header {
+    background-color: white; 
+    font-size: 50px;
+    font-weight: Bold;
+    text-align: center; 
+}
+
+naw {
+    background-color: blue; 
+    
+}
+
+section {
+    background-color: green;
+   
+}
+    
+article {
+    background-color: yellow; 
+    
+}
+
+footer {
+    background-color: pink; 
+    
+}
